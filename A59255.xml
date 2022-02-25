@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A serious and seasonable invective against sleeping in the church, briefly shewing the sin, the shame, and the danger of it</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59255</idno>
+            <idno type="STC">Wing S2606</idno>
+            <idno type="STC">ESTC R15345</idno>
+            <idno type="EEBO-CITATION">13144638</idno>
+            <idno type="OCLC">ocm 13144638</idno>
+            <idno type="VID">98047</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59255)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98047)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 778:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A serious and seasonable invective against sleeping in the church, briefly shewing the sin, the shame, and the danger of it</title>
+               </titleStmt>
+               <extent>1 sheet (2 columns) ;  38 x 33 cm. </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Broadside.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:98047:1" rendition="simple:additions"/>
+            <head>A Serious and Seaſonable Invective againſt SLEEPING in the CHURCH, Briefly ſhewing the Sin, the Shame, and the Danger of it.</head>
+            <p n="1">I. THere is nothing that God is more concerned about in the World, than his own Glory, being very Jealous of his Ho<g ref="char:EOLhyphen"/>nour. Hence it is that God is ſuch an Implacable Enemy to Sin; Sin being contrary to his Holy and Pure Nature, and conſequently a ſtain to his Honour, and Detracting from his Glory. God looks upon it as a great Diſhonour done to his Sacred Majeſty, when men are careleſs of their Carriage and Deportment before him, forgetting that he is a Great and a Terrible God. This is the ſin and the ſhame of many Pretended Worſhipers of God in our Age, who no ſooner are come into the Society and Aſſembly of God's People, to wait upon him, and obtain a bleſſing from him [wanting a due ſenſe of God's Preſence, and Awe of his Dreadful Name] Drowſineſs poſeſſes, and oft-times a Dead Sleep falls upon them; ſo that, poor ſlumbring Souls being aſleep in ſin, they ſleep away their mercies. While God is beſtowing the gracious Doles of his Love and Grace, they are ſnorting in their Pews, as if they were unconcerned, or had no Lot or Portion in the Matter. This Practice [ſo common among Profeſſors in theſe Days, as that a Man cannot tell where to go to hear a Sermon Preached, but he ſhall find ſome of theſe miſerable dull Sots either Nodding their Heads up and down, or elſe faſt aſleep, till they ſnort again] is highly diſpleaſing to God, and deſerves a ſharp and ſevere Reproof. And that inaſmuch as</p>
+            <p n="1">1.'Tis a very great Affront done to the Majeſty of Heaven &amp; Earth, when there is no more Reſpect or Reverence ſhewn to the Eternal God, no more Awe or Dread upon the Spirits of Men. Did you believe the Great God was preſent, and that you were ſpeaking to him in Prayer, or he to you in the Miniſtry of his Word, you would not be thus dull and ſleepy. Were you convinced that you were in the Houſe of God, and that the Place was no other than the Gate of Heaven, <hi>Gen.</hi> 28.17. you would be more quick and lively than to fall aſleep there. This irreve<g ref="char:EOLhyphen"/>rent and unbecoming Carriage would be a great Affront to the Majeſty of an Earthly King, neither could the Petitioner expect any other thing than to have a denial, and frown, if not committed cloſe Priſoner for his great Offence. Earthly Kings and Princes have more and greater Re<g ref="char:EOLhyphen"/>ſpect to their Honour; and who will be ſuch a diſingenuous Sot, as to account it no Affront to the King of Heaven and all the Earth, thus Irre<g ref="char:EOLhyphen"/>verently to behave themſelves in his Preſence, even when they come to petition his glorious Majeſty?</p>
+            <p n="2">2.'Tis a Diſcovery of that great Inſenſibleneſs that men labour under of their great miſery and need of Mercy. Were men convinced of the ſad Eſtate they are in by Nature, they would be more earneſt after Grace and Glory; they would ſearch after it, and endeavour to obtain it with more livelineſs and activity. Who could ſleep, eſpecially at an Ordinance, if he ſaw himſelf on the brink of a bottomleſs Pit, or hang<g ref="char:EOLhyphen"/>ing by a weak Thread or Hair over Everlaſting Burnings? No man, that is well in his wits, if condemned to the Gallows, would fall aſleep while he is begging his Pardon. Dull ignorant Sots Men and Women are to fall Snorting when they are Praying for their Immortal Souls.</p>
+            <p n="3">3. This Practice continued in, and allowed of, demonſtrates that thou art nothing but a Curſed Hypocrite hitherto; that thou haſt dealt de<g ref="char:EOLhyphen"/>ceitfully with God, and that in the midſt of all thy Religious Pretences. Thou fitteſt [or rather Lolleſt] in the Preſence of God, but thine Heart is far away from him. Outward Acts diſcover Inward Habits, and there can be no better demonſtration of a Bad Heart, than an Evil Life. And, who can imagine that the Heart and Soul are engaged with God in Duty, and Religious Worſhip, when the Body is aſleep ? When the Senſes are locked up, the Affections cannot be vigorous in the Perfor<g ref="char:EOLhyphen"/>mance of their Acts.</p>
+            <p n="4">4. All thy Religious Duties are horrible Abuſes; thy Prayers are Pro<g ref="char:EOLhyphen"/>phanations of the Sacred Name of God. <hi>I,</hi> ſaith the Lord, <hi>will be ſancti<g ref="char:EOLhyphen"/>fied</hi> in them that come nigh me, and before all the people I will be glorified, <hi>Lev.</hi> 10.3. God's Name is taken in vain, when Men Irreverently and Un<g ref="char:EOLhyphen"/>becomingly uſe it, without Reſpect to the Greatneſs of his Majeſty, knowing that he is a Great and a Terrible God, and will not hold them Guiltleſs, <hi>viz.</hi> will certainly puniſh thoſe that take his Name into their Lips in vain. 'Tis a dreadful thing to have our Duties become Sin, to have our Supplications eſteemed but Execrations, our Prayers but Cur<g ref="char:EOLhyphen"/>ſes, our Praiſes and Thankſgivings but as Blaſphemies, <hi>Iſa</hi> 66.3.</p>
+            <p n="2">II. It is a very ſhameful thing, every one cries, Fie, Out upon it, as a thing that is odious and hateful: What? to ſleep at Church in the Congregation? Is it not a ſhameful thing to have the Miniſter call out aloud to awaken you? and then the Eyes of all the Aſſembly are upon you as one that is ridiculous: As much as to ſay, Who is that ſhameleſs Wretch that hath no more Reſpect to God nor Man? let us ſee him, that we may ſet ſome Remarks upon him. Who would not bluſh then at ſo ſhameful a thing condemned by God, reproved by the Mini<g ref="char:EOLhyphen"/>ſter, deteſted and abhorred by the People?</p>
+            <p n="3">III. 'Tis not only a ſinful and ſhameful thing, but 'tis likewiſe as dangerous, 'Tis dangerous to dally with a Raging Lion, or to play at the hole of the poiſonous Aſp: even ſo 'tis highly dangerous to dally with God in his Service, or to play the Hypocrite in his Preſence. Is it not a dangerous thing for a Malefactor to fall aſleep when at his Trial, if he have a Pardon which muſt be tendered to the Judge? Every one would ſay, 'tis as much as his Life is worth. We are Malefactors before God, and we come into his Preſence in Ordinances, to plead our Par<g ref="char:EOLhyphen"/>don for the ſake of Chriſt, and of his Merits: And can any one that is in his wits, be ſo mad, as to run himſelf by his Drowſineſs into danger to have himſelf, and all his Pretences to a Pardon caſt out with Scorn and Indignation? Yet ſuch mad Fools are Men and Women, as to run themſelves into ſuch great danger.</p>
+            <p n="1">1. Thou art in danger of being ſtruck dead in the very place: To be ſtricken dead ſuddenly in any place is terrible, but to be ſtricken dead in the Preſence of God, when thou art abuſing his Name and Ordinances, this is exceeding terrible: What! God ſpeaking, and thou ſleeping? God may juſtly ſay to Death, Go ſtrike that dull drowſie Sot at the Heart, he will not hear Me, let him feel Thee; My Words do not reach his Ears, let Thine Arrows pierce his Heart. If had like to have coſt <hi>Eutychus</hi> his Life for Sleeping while <hi>Paul</hi> Preached, <hi>Acts</hi> 20.9. And thou knoweſt not but what was like to be <hi>Eutychus</hi> his Lot, may indeed be thine. Thou wilt not hear the Word of God, God may make thee feel his Rod: Thou takeſt no care of thy Carriage in his Preſence, God may turn thee out of his Preſence into an Eternal State: Thou forgetteſt to Reverence him when thou art before him, and God may refuſe to pre<g ref="char:EOLhyphen"/>ſerve thee in Life while thou art before him.</p>
+            <p n="2">2. Thou art in danger of being ſent packing to Hell from Ordinances: None but an infinitely Merciful God can bear with ſuch Intollerable Af<g ref="char:EOLhyphen"/>fronts, &amp; thou mayeſt aſſure thy ſelf that ſooner or later Divine Vengeance will take hold of thee if thou go on thus to affront him; his Hand will not alwaies ſpare thee neither mayeſt thou think to blind the Eyes of the Al<g ref="char:EOLhyphen"/>mighty for ever, but thou mayeſt forever bewail thy Abuſe of Ordinan<g ref="char:EOLhyphen"/>ces, by curſing thy ſelf for thy curſed Drowſineſs in the Flames of Hell.</p>
+            <p n="3">3. It is a terrible thing to ſit under the Means of Grace, and not to profit by it, as certainly thou wilt not as long as thou indulgeſt thy ſelf in this curſed ſluggiſh frame of Spirit: Canſt thou be the better for Ser<g ref="char:EOLhyphen"/>mons that ſleepeſt them away? the better for Prayers, when thou knoweſt not what is prayed for? No, believe it, 'tis a very ſad and dan<g ref="char:EOLhyphen"/>gerous thing to ſit under Goſpel Ordinances, and get no good by them.</p>
+            <p n="4">4. The danger of this is the more, in that it is the ready way to be de<g ref="char:EOLhyphen"/>prived of Goſpel-Ordinances. Do not think that God will alwaies force his Goſpel and Goſpel Mininiſters on a dull, ſleepy, ſottiſh People; and without doubt, where there is a ſcarcity of the Word of the Lord, 'tis for paſt Abuſes, and former ſlightings of it: And if God deprive us of his Ordinances, and cut us ſhort of Sermons, we may juſtly conclude, that among other Reaſons this may be one, our turning our Backs upon Or<g ref="char:EOLhyphen"/>dinances, and ſleeping away of Sermons. Let all then remember to Repent of this great ſin that is ſo ſhameful and dangerous, <hi>viz.</hi> Sleeping in the Church when the Word of God is Preached: And let all men ſerve him with Fear and Trembling, knowing that our God is a Jealous God, our God is a Conſuming Fire.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Simmons,</hi> at the <hi>Three Golden Cocks,</hi> at the Weſt End of St. <hi>Paul's.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
